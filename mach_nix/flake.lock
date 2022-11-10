@@ -17,17 +17,18 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1643805626,
-        "narHash": "sha256-AXLDVMG+UaAGsGSpOtQHPIKB+IZ0KSd9WS77aanGzgc=",
-        "owner": "NixOS",
+        "lastModified": 1668113096,
+        "narHash": "sha256-0mRe+C/v/sFParc9y7sm/KJrXa20HFkNfSY1nRULX+M=",
+        "owner": "ceonlabs",
         "repo": "nixpkgs",
-        "rev": "554d2d8aa25b6e583575459c297ec23750adb6cb",
+        "rev": "883420d94bf292717b76dae36a1555b5c7026e56",
         "type": "github"
       },
       "original": {
-        "id": "nixpkgs",
-        "ref": "nixos-unstable",
-        "type": "indirect"
+        "owner": "ceonlabs",
+        "ref": "makepython",
+        "repo": "nixpkgs",
+        "type": "github"
       }
     },
     "pypi-deps-db": {
